@@ -65,3 +65,7 @@ python3 -m http.server 4315 --bind 127.0.0.1
 
 Then open http://127.0.0.1:4315. Static page — no build step; GSAP and fonts load from
 public CDNs.
+
+## Author
+
+Built by [Jang Trịnh](https://www.jang.work/?utm_source=github&utm_medium=readme&utm_campaign=design-os-rill-architecture). More projects, case studies and writing at [jang.work](https://www.jang.work/?utm_source=github&utm_medium=readme&utm_campaign=design-os-rill-architecture).
